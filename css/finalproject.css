@@ -14,7 +14,6 @@
                 border: 3px solid #000;
                 box-shadow: 0 0 5px 5px rgba(0,0,0,.75);
                 font-family: 'Lato', sans-serif;
-                font-family: 'Nova Mono', monospace;
                 line-height: 24px;
 				text-align: center;
                 color: white;
@@ -50,7 +49,8 @@
 
 
 			h1 {
-				font-size: 36px;
+				font-family: 'Nova Mono', monospace;
+                font-size: 36px;
 				color: #fff
 			}
 
